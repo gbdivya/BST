@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609683994 source:c:\users\user\desktop\manipal\ads\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"bst.h"
+
+1609684144 c:\users\user\desktop\manipal\ads\bst\bst.h
+	<stdint.h>
+
